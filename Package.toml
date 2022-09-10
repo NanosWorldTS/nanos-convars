@@ -1,0 +1,10 @@
+[package]
+    name =                  "convars"
+    author =                "NanosWorldTS Team"
+    version =               "1.0.0"
+    type =                  "script"
+    force_no_map_script =   false
+    auto_cleanup =          true
+    package_requirements =  []
+    assets_requirements =   []
+    compatible_maps =       []

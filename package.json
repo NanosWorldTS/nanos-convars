@@ -1,0 +1,17 @@
+{
+  "name": "@nanosts/convars",
+  "types": "index",
+  "version": "1.0.0",
+  "description": "Adds so called convars (configurable/console variables) to allow easy configuration of variables in code. (for TS shows interop with Lua)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanosWorldTS/nanos-convars.git"
+  },
+  "keywords": [],
+  "author": "NanosWorldTS Team",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NanosWorldTS/nanos-convars/issues"
+  },
+  "homepage": "https://github.com/NanosWorldTS/nanos-convars#readme"
+}
