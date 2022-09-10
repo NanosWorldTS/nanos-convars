@@ -1,5 +1,5 @@
 {
-  "name": "@nanosts/convars",
+  "name": "nanos-convars",
   "types": "index",
   "version": "1.0.0",
   "description": "Adds so called convars (configurable/console variables) to allow easy configuration of variables in code. (for TS shows interop with Lua)",
