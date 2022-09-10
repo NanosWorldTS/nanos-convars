@@ -1,5 +1,5 @@
 [package]
-    name =                  "convars"
+    name =                  "nanos-convars"
     author =                "NanosWorldTS Team"
     version =               "1.0.0"
     type =                  "script"
